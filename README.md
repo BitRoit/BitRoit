@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @BitRoit
+- 👋 Hi, I’m @BitRoit.
+- 🎮 I will make games... and maybe something else.
